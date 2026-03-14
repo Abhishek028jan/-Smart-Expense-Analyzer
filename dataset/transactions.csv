@@ -1,0 +1,179 @@
+Date,Description,Amount,Category
+2025-02-01,Swiggy Food Order,-350,Food
+2025-02-02,Uber Trip,-120,Travel
+2025-02-03,Amazon Shopping,-899,Shopping
+2025-02-04,Electricity Bill,-1200,Bills
+2025-02-05,Zomato Food,-250,Food
+2025-02-06,Netflix Subscription,-499,Entertainment
+2025-02-06,Spotify Premium,-119,Entertainment
+2025-02-07,Bus Ticket,-60,Travel
+2025-02-08,Flipkart Order,-1200,Shopping
+2025-02-09,Ola Ride,-180,Travel
+2025-02-10,Starbucks Coffee,-220,Food
+2025-02-11,Grocery Store,-450,Food
+2025-02-12,Mobile Recharge,-299,Bills
+2025-02-13,Dominos Pizza,-380,Food
+2025-02-14,BookMyShow Movie,-320,Entertainment
+2025-02-15,UPI to Rahul Kumar,-500,Personal Transfer
+2025-02-16,Medical Store,-150,Health
+2025-02-17,Petrol Pump,-800,Travel
+2025-02-18,BigBasket Order,-650,Food
+2025-02-19,Netflix Subscription,-499,Entertainment
+2025-02-20,Water Bill,-350,Bills
+2025-02-21,McDonalds,-280,Food
+2025-02-22,RedBus Ticket,-450,Travel
+2025-02-23,Myntra Shopping,-1200,Shopping
+2025-02-24,Doctor Consultation,-800,Health
+2025-02-25,KFC Order,-320,Food
+2025-02-26,IMPS to Priya,-1000,Personal Transfer
+2025-02-27,Gas Bill,-400,Bills
+2025-02-28,IRCTC Train Ticket,-850,Travel
+2025-03-01,Swiggy Instamart,-520,Food
+2025-03-01,Netflix Subscription,-499,Entertainment
+2025-03-02,Amazon Prime,-149,Entertainment
+2025-03-03,Uber Eats,-290,Food
+2025-03-04,Electricity Bill,-1200,Bills
+2025-03-05,Ola Auto,-90,Travel
+2025-03-06,Pharmacy,-200,Health
+2025-03-06,Spotify Premium,-119,Entertainment
+2025-03-07,Zee5 Subscription,-99,Entertainment
+2025-03-08,D-Mart Grocery,-380,Food
+2025-03-09,Metro Rail,-40,Travel
+2025-03-10,Flipkart Plus,-499,Shopping
+2025-03-11,Hospital Bill,-1500,Health
+2025-03-12,Pizza Hut,-420,Food
+2025-03-13,UPI to Amit Sharma,-300,Personal Transfer
+2025-03-14,Internet Bill,-699,Bills
+2025-03-15,Cab Service,-250,Travel
+2025-03-16,Medical Test,-600,Health
+2025-03-17,Big Bazaar,-550,Shopping
+2025-03-18,Netflix Subscription,-499,Entertainment
+2025-03-19,Subway Sandwich,-180,Food
+2025-03-20,Bus Pass,-200,Travel
+2025-03-21,IMPS to Family,-800,Personal Transfer
+2025-03-22,Dental Clinic,-1200,Health
+2025-03-23,Reliance Fresh,-320,Food
+2025-03-24,Gas Bill,-400,Bills
+2025-03-25,MakeMyTrip Flight,-2500,Travel
+2025-03-26,Apollo Pharmacy,-180,Health
+2025-03-27,Croma Electronics,-1500,Shopping
+2025-03-28,KFC Delivery,-350,Food
+2025-03-29,Mobile Bill,-399,Bills
+2025-03-30,UPI to Neha,-400,Personal Transfer
+2025-03-31,Netflix Subscription,-499,Entertainment
+2025-04-01,Swiggy Super,-480,Food
+2025-04-02,Ola Bike,-120,Travel
+2025-04-03,Amazon Kindle,-999,Shopping
+2025-04-04,Electricity Bill,-1200,Bills
+2025-04-04,Spotify Premium,-119,Entertainment
+2025-04-05,Zomato Pro,-99,Food
+2025-04-06,Doctor Visit,-500,Health
+2025-04-07,IRCTC AC Ticket,-1200,Travel
+2025-04-08,IMPS to Brother,-600,Personal Transfer
+2025-04-09,BigBasket Weekly,-720,Food
+2025-04-10,Netflix Subscription,-499,Entertainment
+2025-04-11,Water Bill,-350,Bills
+2025-04-12,Dominos Delivery,-450,Food
+2025-04-13,Medical Insurance,-2500,Health
+2025-04-14,Metro Card,-100,Travel
+2025-04-15,Myntra Sale,-800,Shopping
+2025-04-16,UPI to Friend,-200,Personal Transfer
+2025-04-17,Gas Bill,-400,Bills
+2025-04-18,PVR Cinema,-380,Entertainment
+2025-04-19,Starbucks,-240,Food
+2025-04-20,RedBus AC,-550,Travel
+2025-04-21,Pharmacy Medicines,-300,Health
+2025-04-22,Flipkart Grocery,-380,Shopping
+2025-04-23,IMPS to Sister,-350,Personal Transfer
+2025-04-24,Internet Bill,-699,Bills
+2025-04-25,McDonalds Drive,-260,Food
+2025-04-26,Hospital Lab,-400,Health
+2025-04-27,Uber Reserve,-180,Travel
+2025-04-28,Big Bazaar Monthly,-620,Shopping
+2025-04-29,KFC Combo,-290,Food
+2025-04-30,Mobile Bill,-399,Bills
+2025-05-01,Netflix Subscription,-499,Entertainment
+2025-05-02,Spotify Premium,-119,Entertainment
+2025-05-03,Swiggy Order,-380,Food
+2025-05-04,Electricity Bill,-1200,Bills
+2025-05-05,Uber Trip,-130,Travel
+2025-02-10,Starbucks Coffee,-220,Food
+2025-02-11,Grocery Store,-450,Food
+2025-02-12,Mobile Recharge,-299,Bills
+2025-02-13,Dominos Pizza,-380,Food
+2025-02-14,BookMyShow Movie,-320,Entertainment
+2025-02-15,UPI to Rahul Kumar,-500,Personal Transfer
+2025-02-16,Medical Store,-150,Health
+2025-02-17,Petrol Pump,-800,Travel
+2025-02-18,BigBasket Order,-650,Food
+2025-02-19,Spotify Premium,-119,Entertainment
+2025-02-20,Water Bill,-350,Bills
+2025-02-21,McDonalds,-280,Food
+2025-02-22,RedBus Ticket,-450,Travel
+2025-02-23,Myntra Shopping,-1200,Shopping
+2025-02-24,Doctor Consultation,-800,Health
+2025-02-25,KFC Order,-320,Food
+2025-02-26,IMPS to Priya,-1000,Personal Transfer
+2025-02-27,Gas Bill,-400,Bills
+2025-02-28,IRCTC Train Ticket,-850,Travel
+2025-03-01,Swiggy Instamart,-520,Food
+2025-03-02,Amazon Prime,-149,Entertainment
+2025-03-03,Uber Eats,-290,Food
+2025-03-04,Electricity Bill,-1150,Bills
+2025-03-05,Ola Auto,-90,Travel
+2025-03-06,Pharmacy,-200,Health
+2025-03-07,Zee5 Subscription,-99,Entertainment
+2025-03-08,D-Mart Grocery,-380,Food
+2025-03-09,Metro Rail,-40,Travel
+2025-03-10,Flipkart Plus,-499,Shopping
+2025-03-11,Hospital Bill,-1500,Health
+2025-03-12,Pizza Hut,-420,Food
+2025-03-13,UPI to Amit Sharma,-300,Personal Transfer
+2025-03-14,Internet Bill,-699,Bills
+2025-03-15,Cab Service,-250,Travel
+2025-03-16,Medical Test,-600,Health
+2025-03-17,Big Bazaar,-550,Shopping
+2025-03-18,Hotstar Premium,-299,Entertainment
+2025-03-19,Subway Sandwich,-180,Food
+2025-03-20,Bus Pass,-200,Travel
+2025-03-21,IMPS to Family,-800,Personal Transfer
+2025-03-22,Dental Clinic,-1200,Health
+2025-03-23,Reliance Fresh,-320,Food
+2025-03-24,Gas Cylinder,-950,Bills
+2025-03-25,MakeMyTrip Flight,-2500,Travel
+2025-03-26,Apollo Pharmacy,-180,Health
+2025-03-27,Croma Electronics,-1500,Shopping
+2025-03-28,KFC Delivery,-350,Food
+2025-03-29,Mobile Bill,-399,Bills
+2025-03-30,UPI to Neha,-400,Personal Transfer
+2025-03-31,Netflix Family,-799,Entertainment
+2025-04-01,Swiggy Super,-480,Food
+2025-04-02,Ola Bike,-120,Travel
+2025-04-03,Amazon Kindle,-999,Shopping
+2025-04-04,Electricity Bill,-1100,Bills
+2025-04-05,Zomato Pro,-99,Food
+2025-04-06,Doctor Visit,-500,Health
+2025-04-07,IRCTC AC Ticket,-1200,Travel
+2025-04-08,IMPS to Brother,-600,Personal Transfer
+2025-04-09,BigBasket Weekly,-720,Food
+2025-04-10,Spotify Family,-179,Entertainment
+2025-04-11,Water Bill,-320,Bills
+2025-04-12,Dominos Delivery,-450,Food
+2025-04-13,Medical Insurance,-2500,Health
+2025-04-14,Metro Card,-100,Travel
+2025-04-15,Myntra Sale,-800,Shopping
+2025-04-16,UPI to Friend,-200,Personal Transfer
+2025-04-17,Gas Bill,-420,Bills
+2025-04-18,PVR Cinema,-380,Entertainment
+2025-04-19,Starbucks,-240,Food
+2025-04-20,RedBus AC,-550,Travel
+2025-04-21,Pharmacy Medicines,-300,Health
+2025-04-22,Flipkart Grocery,-380,Shopping
+2025-04-23,IMPS to Sister,-350,Personal Transfer
+2025-04-24,Internet Recharge,-599,Bills
+2025-04-25,McDonalds Drive,-260,Food
+2025-04-26,Hospital Lab,-400,Health
+2025-04-27,Uber Reserve,-180,Travel
+2025-04-28,Big Bazaar Monthly,-620,Shopping
+2025-04-29,KFC Combo,-290,Food
+2025-04-30,Mobile Postpaid,-499,Bills
